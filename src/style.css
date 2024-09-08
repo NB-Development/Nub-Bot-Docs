@@ -24,3 +24,10 @@ li {
     font-size: 18px;
     line-height: 40px;
 }
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration-line: underline;
+}
